@@ -5,7 +5,7 @@ class Dust < Formula
   sha256 "89ecd9f1c9f48f400f0d06ae4cca6502367b8d2e3dc6e575a2b3b489180c12d4"
 
   def install
-    bin.install "sd"
+    bin.install "dust"
   end
 
   test do
